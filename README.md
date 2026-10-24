@@ -43,7 +43,7 @@ You can download the original datasource here: [Movies_Data_Homework.xlsx](https
 - Data cleaning and formatting. The excel file after the data cleaning & preparation process
 can be downloaded here -[Movies_Dashboard.xlsx](https://github.com/user-attachments/files/33913360/Movies_Data_Homework_Anna.xlsx)
 ### Dashboard 
-Dashboard can be find here : [Movies_Data_Homework_Anna - Dashboard.xlsx](https://github.com/user-attachments/files/33913677/Movies_Data_Homework_Anna.-.Dashboard.xlsx)
+Dashboard can be find here : [Movies_Data Dashboard.xlsx](https://github.com/user-attachments/files/33913677/Movies_Data_Homework_Anna.-.Dashboard.xlsx)
 
 <img width="771" height="630" alt="image" src="https://github.com/user-attachments/assets/3575e2e3-8f7f-40a5-8ea8-bce6d8c5d56f" />
 
