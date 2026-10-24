@@ -42,7 +42,10 @@ You can download the original datasource here: [Movies_Data_Homework.xlsx](https
 can be downloaded here -[Movies_Dashboard.xlsx](https://github.com/user-attachments/files/33913360/Movies_Data_Homework_Anna.xlsx)
 ### Dashboard 
 <img width="771" height="630" alt="image" src="https://github.com/user-attachments/assets/3575e2e3-8f7f-40a5-8ea8-bce6d8c5d56f" />
-'''
+
+### M Code
+
+```
 let
     Source = Excel.Workbook(File.Contents("C:\Users\andre\OneDrive\Рабочий стол\Anna\Data Analitics Course\Movies_Data_Homework.xlsx"), null, true),
     #"Movie Data_Sheet" = Source{[Item="Movie Data",Kind="Sheet"]}[Data],
@@ -78,4 +81,4 @@ let
     #"Changed Type1" = Table.TransformColumnTypes(#"Added Custom",{{"ROE", Percentage.Type}})
 in
     #"Changed Type1"
-'''
+```
