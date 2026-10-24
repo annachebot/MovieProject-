@@ -3,8 +3,9 @@
 [Problem Statement](#problem-statement)
 [Data Source](#data-source)
 [Tools](#tools)
-[]
-[]
+[Dashboard](#Dashboard)
+[M Code](#m-code)
+[Recomendations](#recomendation)
 ### Problem Statement
 Netflix wants to better understand which movie they should produce next, including the most suitable actors and directors.
 
@@ -82,3 +83,10 @@ let
 in
     #"Changed Type1"
 ```
+
+### Recommendation
+Top 5 genres are Action, Comedy, etc. I would recommend Netfliz to produce a movie with one of these genres as they brought in more in box office revenie based on the data from 2012 to 2016
+
+<img width="217" height="127" alt="image" src="https://github.com/user-attachments/assets/162067d3-cd6a-44c6-8104-1c1fa68a0a36" />
+
+
