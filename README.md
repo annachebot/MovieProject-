@@ -38,4 +38,6 @@ You can download the original datasource here: [Movies_Data_Homework.xlsx](https
 ### Data Cleaning 
 - Data loading and inspection.
 - Handling errors, missing values.
-- Data cleaning and formatting. The excel file after the data cleaning & preparation process can be downloaded here -
+- Data cleaning and formatting. The excel file after the data cleaning & preparation process
+can be downloaded here -[Movies_Dashboard.xlsx](https://github.com/user-attachments/files/33913360/Movies_Data_Homework_Anna.xlsx)
+### Dashboard 
