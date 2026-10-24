@@ -1,7 +1,7 @@
 # Movie Dashboard 
 ## Table of Content 
 [Problem Statement](#problem-statement)
-[Data Source](#dash-source)
+[Data Source](#data-source)
 []
 []
 []
